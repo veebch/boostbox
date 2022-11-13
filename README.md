@@ -49,6 +49,8 @@ A set of command line tools that with a bit of tenacity in remembering keyboard 
 
 https://github.com/tmux/tmux/wiki
 
+configuration: https://github.com/samoshkin/tmux-config
+
 ## neomutt
 
 https://github.com/neomutt/neomutt
