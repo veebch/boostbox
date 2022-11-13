@@ -31,7 +31,7 @@ This will be influenced by the parts that you decide to use. One thing you are l
 
 The screen will be slightly obscured by the edges of the frame. This can be fixed by adding overscan values to `/boot/config.txt`.
 
-eg
+For example:
 
 ```
 overscan_left=40
