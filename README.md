@@ -49,6 +49,8 @@ A set of command line tools that with a bit of tenacity in remembering keyboard 
 
 ## neomutt
 
+https://github.com/neomutt/neomutt
+
 ## gcalcli
 
 ## weechat
