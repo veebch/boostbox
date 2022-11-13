@@ -20,6 +20,7 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 - AC to 5V DC power supply (to attach to switch)
 - 7inch 4:3 LED screen (like [this one](https://www.aliexpress.com/item/1005004454598585.html))
 - Step-up convertor to convert 5V to the 9V DC needed by the screen
+- Optional, a speaker that can fit in the recess that used to hold the bulb (alternatively, you can connect to an external speaker using bluetooth)
 
 # Assembly
 
