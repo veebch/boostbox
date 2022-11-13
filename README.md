@@ -1,3 +1,5 @@
+![Action Shot](/images/OscilloscopeBoostbox.jpg)
+
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 
@@ -16,10 +18,14 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 - Hanimex E300 super 8 viewer
 - Ortholinear 40% keyboard
 - AC to 5V DC power supply (to attach to switch)
-- A 7inch 4:3 LED screen (like [this one](https://www.aliexpress.com/item/1005004454598585.html))
+- 7inch 4:3 LED screen (like [this one](https://www.aliexpress.com/item/1005004454598585.html))
+- Step-up convertor to supply the 9V DC to the screen
+
 # Assembly
 
 # Setup
+
+The screen will be slightly obscured by the edges of the frame. This can be fixed by adding overscan values to `/boot/config.txt`.
 
 # Software
 
@@ -30,6 +36,10 @@ In no particular order
 ## neomutt
 
 ## gcalcli
+
+## weechat
+
+![Action Shot](/images/ircterminal.jpg)
 
 # Video
 
