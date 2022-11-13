@@ -14,6 +14,7 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 # Parts
 - Raspberry Pi 4 (any sbc linux machine with HDMI out should work
 - AC to 5V DC power supply (to attach to switch)
+- A 7inch 4:3 LED screen (like [this one](https://www.aliexpress.com/item/1005004454598585.html))
 # Assembly
 
 # Setup
