@@ -7,7 +7,7 @@
 
 # Boostbox
 
-Some notes on a command-line terminal, built fron a super 8 viewer.
+Some notes on a command-line terminal, built from an old a super 8 viewer.
 
 # Background
 
@@ -22,6 +22,10 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 - Step-up convertor to convert 5V to the 9V DC needed by the screen
 
 # Assembly
+
+The shell is mostly empty, other than a bulb, a transformer, a lens and a plastic screen. These are easily removed (make sure you keep them in case you ever want to convert it back to a super 8 viewer).
+
+This will be influenced by the parts that you decide to use. One thing you are likely to need to do is to file away some metal to get the screen to fit. This part is tedious, but with the right tools (we used a simple metal file), it makes for a zen hour of crafting.
 
 # Setup
 
