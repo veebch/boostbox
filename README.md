@@ -23,6 +23,8 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 
 # Setup
 
+The screen will be slightly obscured by the edges of the frame. This can be fixed by adding overscan values to `/boot/config.txt`.
+
 # Software
 
 In no particular order
