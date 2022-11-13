@@ -22,3 +22,6 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 
 # Video
 
+[![Mod demo](http://img.youtube.com/vi/I5iHMEqll0Q/0.jpg)](http://www.youtube.com/watch?v=I5iHMEqll0Q "Video Title")
+
+
