@@ -18,7 +18,15 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 
 # Setup
 
-# Tools
+# Software
+
+In no particular order
+
+## tmux
+
+## neomutt
+
+## gcalcli
 
 # Video
 
