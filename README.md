@@ -33,6 +33,10 @@ In no particular order
 
 ## gcalcli
 
+## weechat
+
+![Action Shot](/images/ircterminal.jpg)
+
 # Video
 
 [![Mod demo](http://img.youtube.com/vi/I5iHMEqll0Q/0.jpg)](http://www.youtube.com/watch?v=I5iHMEqll0Q "Video Title")
