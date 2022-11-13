@@ -47,13 +47,19 @@ A set of command line tools that with a bit of tenacity in remembering keyboard 
 
 ## tmux
 
+https://github.com/tmux/tmux/wiki
+
 ## neomutt
 
 https://github.com/neomutt/neomutt
 
 ## gcalcli
 
+https://github.com/insanum/gcalcli
+
 ## weechat
+
+https://github.com/weechat/weechat
 
 ![Action Shot](/images/ircterminal.jpg)
 
