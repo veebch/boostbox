@@ -43,7 +43,7 @@ overscan_bottom=16
 
 # Software
 
-In no particular order
+A set of command line tools that with a bit of tenacity in remembering keyboard shortcuts, makes for an efficient workflow. In no particular order
 
 ## tmux
 
