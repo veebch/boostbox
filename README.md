@@ -56,14 +56,18 @@ configuration: https://github.com/samoshkin/tmux-config
 ## neomutt
 
 Old skool email
+
 https://github.com/neomutt/neomutt
 
 ## gcalcli
 
 Google calendar command line client
+
 https://github.com/insanum/gcalcli
 
 ## weechat
+
+IRC client
 
 https://github.com/weechat/weechat
 
@@ -71,6 +75,7 @@ https://github.com/weechat/weechat
 ## ytfzf
 
 YouTube viewer
+
 https://github.com/pystardust/ytfzf
 
 # Video
