@@ -11,7 +11,7 @@ Some notes on a command-line terminal, built from an old a super 8 viewer.
 
 # Background
 
-The Boostbox was originally a little project to turn an old Super 8 viewer into a YouTube viewing terminal. After some time tweaking it, it turned into a terminal that used tmux, neomutt, weechat and gcalcli to spend as much time in a fast/responsive terminal as possible.
+The Boostbox was originally a little project to turn an old Super 8 viewer into a YouTube viewing terminal. After some time tweaking it, it turned into a terminal that used tmux (muktitasking), neomutt(email), weechat(IRC chat) and gcalcli(calendar) to spend as much time in a fast/responsive terminal as possible.
 
 # Parts
 - Raspberry Pi 4 (any [SBC](https://en.wikipedia.org/wiki/Single-board_computer) running linux with HDMI out should work)
