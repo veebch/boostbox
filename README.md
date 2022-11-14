@@ -48,16 +48,19 @@ A set of command line tools that with a bit of tenacity in remembering keyboard 
 
 ## tmux
 
+A terminal multiplexer
 https://github.com/tmux/tmux/wiki
 
 configuration: https://github.com/samoshkin/tmux-config
 
 ## neomutt
 
+Old skool email
 https://github.com/neomutt/neomutt
 
 ## gcalcli
 
+Google calendar command line client
 https://github.com/insanum/gcalcli
 
 ## weechat
@@ -65,6 +68,10 @@ https://github.com/insanum/gcalcli
 https://github.com/weechat/weechat
 
 ![Action Shot](/images/ircterminal.jpg)
+## ytfzf
+
+YouTube viewer
+https://github.com/pystardust/ytfzf
 
 # Video
 
