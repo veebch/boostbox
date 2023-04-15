@@ -16,7 +16,6 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 # Parts
 - Raspberry Pi 4 or any single board computer running linux with HDMI out should work, for example a [Banana Pi M2 zero](https://www.veeb.ch/store/p/banana-pi-m2-zero) (disclaimer: we're selling these, so some of the price goes towards us buying coffee beans)
 - Hanimex E300 super 8 viewer
-- Ortholinear 40% keyboard
 - AC to 5V DC power supply (to attach to power switch on Hanimex)
 - 7inch 4:3 LED screen (like [this CLAA070MA0ACW](https://www.aliexpress.com/item/1005004454598585.html)) (Dimensions 154 × 119,2 × 5,4)
 - Step-up convertor to convert 5V to the 9V DC needed by the screen
