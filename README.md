@@ -21,7 +21,7 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 - 7inch 4:3 LED screen (like [this CLAA070MA0ACW](https://www.aliexpress.com/item/1005004454598585.html)) (Dimensions 154 × 119,2 × 5,4)
 - Step-up convertor to convert 5V to the 9V DC needed by the screen
 - Optional, a speaker that can fit in the recess that used to hold the bulb (alternatively, you can connect to an external speaker using bluetooth)
-- A BM40 keyboard by kprepublic ([RAMA grid keycaps](https://ramaworks.store/products/grid-set-a) shown in IRC photos below)
+- A [BM40 keyboard](https://kprepublic.com/products/bm40-rgb-40-hot-swap-custom-mechanical-keyboard-pcb-qmk-underglow-type-c-planck?variant=40660715536547) by kprepublic ([RAMA grid keycaps](https://ramaworks.store/products/grid-set-a) shown in IRC photos below)
 # Assembly
 
 The shell is mostly empty, other than a bulb, a transformer, a lens and a plastic screen. These are easily removed (make sure you keep them in case you ever want to convert it back to a super 8 viewer).
