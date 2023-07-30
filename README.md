@@ -76,9 +76,8 @@ Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli
 
 ## Video
 
-[ytfzf](https://github.com/pystardust/ytfzf) for viewing YouTube videos (only tested with X11 running).
-
-[VLC](https://github.com/videolan/vlc)
+- [ytfzf](https://github.com/pystardust/ytfzf) for viewing YouTube videos (only tested with X11 running).
+- [VLC](https://github.com/videolan/vlc) for playng videos in the framebuffer.
 
 ## Image Viewer
 
