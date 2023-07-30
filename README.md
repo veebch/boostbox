@@ -77,7 +77,7 @@ In no particular order:
 ### Video
 
 - [ytfzf](https://github.com/pystardust/ytfzf) for searching YouTube videos.
-- [MPV](https://mpv.io/) for playng videos in the framebuffer.
+- [MPV](https://mpv.io/) for playing videos in the framebuffer.
 
 ### Image Viewer
 
