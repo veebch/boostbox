@@ -48,33 +48,33 @@ A set of command line tools that with a bit of tenacity in remembering keyboard 
 
 In no particular order:
 
-## Terminal multiplexer
+### Terminal multiplexer
 
 - [tmux](https://github.com/tmux/tmux/wiki) with [configuration](https://github.com/samoshkin/tmux-config)
 - Start up elaborate sessions using a single [tmuxinator](https://github.com/tmuxinator/tmuxinator) command
 
-## email
+### email
 
 - [neomutt](https://github.com/neomutt/neomutt)
 
-## Encryption
+### Encryption
 
 - GNU Privacy Guard [GPG](https://gnupg.org/)
 
-## Calendar
+### Calendar
 
 - Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli)
 
-## Chat
+### Chat
 
 - [weechat](https://github.com/weechat/weechat) IRC client
 
-## Video
+### Video
 
 - [ytfzf](https://github.com/pystardust/ytfzf) for viewing YouTube videos (only tested with X11 running).
 - [VLC](https://github.com/videolan/vlc) for playng videos in the framebuffer.
 
-## Image Viewer
+### Image Viewer
 
 - [FIM](https://www.nongnu.org/fbi-improved/) image viewer program for framebuffer.
 
