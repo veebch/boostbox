@@ -12,12 +12,13 @@ Some notes on a command-line terminal, (reversibly) built into an old a super 8 
 
 # Background
 
-The Boostbox was originally a little project to turn an old Super 8 viewer into a YouTube viewing terminal. After some time tweaking it, it turned into a capable terminal that uses: 
-- terminal mutiplexing (**tmux**)
-- email (**neomutt**)
-- encryption (**gpg**)
-- chat (**weechat**)
-- scheduling (**gcalcli**)
+The Boostbox was originally a little project to turn an old Super 8 viewer into a YouTube viewing terminal. After some time tweaking it, it turned into a capable terminal that does: 
+- terminal mutiplexing 
+- email 
+- encryption 
+- chat
+- video/ image viewing
+- scheduling 
 
 # Overview Video
 
