@@ -49,7 +49,7 @@ overscan_bottom=16
 
 # UX / Tools
 
-An evolving set of command line tools that with a bit of tenacity in remembering keyboard shortcuts, makes for an efficient workflow. 
+An evolving set of command line tools that make for an efficient workflow. 
 
 In no particular order:
 
