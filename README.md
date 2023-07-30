@@ -7,7 +7,7 @@
 
 # Boostbox
 
-Some notes on a command-line terminal, built from an old a super 8 viewer.
+Some notes on a command-line terminal, (reversibly) built into an old a super 8 viewer.
 
 
 # Background
