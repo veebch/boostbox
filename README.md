@@ -66,7 +66,7 @@ In no particular order:
 
 ### Email
 
-- [neomutt](https://github.com/neomutt/neomutt).
+- [neomutt](https://github.com/neomutt/neomutt), a fast, flexible email client.
 
 ### Encryption
 
