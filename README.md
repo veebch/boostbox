@@ -46,7 +46,7 @@ overscan_bottom=16
 
 A set of command line tools that with a bit of tenacity in remembering keyboard shortcuts, makes for an efficient workflow. In no particular order
 
-## terminal multiplexer
+## Terminal multiplexer
 
 [tmux](https://github.com/tmux/tmux/wiki)
 
@@ -58,27 +58,30 @@ Start up elaborate sessions using a single [tmuxinator](https://github.com/tmuxi
 
 [neomutt](https://github.com/neomutt/neomutt)
 
-## encryption
+## Encryption
 
 GNU Privacy Guard [GPG](https://gnupg.org/)
 
-## calendar
+## Calendar
 
-Google calendar command line client
+Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli)
 
-https://github.com/insanum/gcalcli
-
-## weechat
+## Chat
 
 [weechat](https://github.com/weechat/weechat) IRC client
 
 ![Action Shot](/images/ircterminal.jpg)
+
 ## YouTube
 
 [ytfzf](https://github.com/pystardust/ytfzf)
 
 # Video
 
-[![Mod demo](http://img.youtube.com/vi/I5iHMEqll0Q/0.jpg)](http://www.youtube.com/watch?v=I5iHMEqll0Q "Video Title")
+[![Mod demo](http://img.youtube.com/vi/I5iHMEqll0Q/0.jpg)](http://www.youtube.com/watch?v=I5iHMEqll0Q "Video Title") for viewing videos (only tested with X11 running).
 
+[VLC](https://github.com/videolan/vlc)
 
+# Image Viewer
+
+[FIM](https://www.nongnu.org/fbi-improved/) image viewer program for framebuffer.
