@@ -55,24 +55,24 @@ In no particular order:
 
 ### Terminal multiplexer
 
-- [tmux](https://github.com/tmux/tmux/wiki) with [configuration](https://github.com/samoshkin/tmux-config)
-- Start up elaborate sessions using a single [tmuxinator](https://github.com/tmuxinator/tmuxinator) command
+- [tmux](https://github.com/tmux/tmux/wiki) with [configuration](https://github.com/samoshkin/tmux-config) by @samoshkin.
+- Start up elaborate sessions using a single [tmuxinator](https://github.com/tmuxinator/tmuxinator) command.
 
 ### Email
 
-- [neomutt](https://github.com/neomutt/neomutt)
+- [neomutt](https://github.com/neomutt/neomutt).
 
 ### Encryption
 
-- GNU Privacy Guard [GPG](https://gnupg.org/)
+- GNU Privacy Guard [GPG](https://gnupg.org/).
 
 ### Calendar
 
-- Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli)
+- Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli).
 
 ### Chat
 
-- [weechat](https://github.com/weechat/weechat) IRC client
+- [weechat](https://github.com/weechat/weechat) IRC client.
 
 ### Video
 
