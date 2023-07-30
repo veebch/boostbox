@@ -58,7 +58,7 @@ In no particular order:
 - [tmux](https://github.com/tmux/tmux/wiki) with [configuration](https://github.com/samoshkin/tmux-config)
 - Start up elaborate sessions using a single [tmuxinator](https://github.com/tmuxinator/tmuxinator) command
 
-### email
+### Email
 
 - [neomutt](https://github.com/neomutt/neomutt)
 
