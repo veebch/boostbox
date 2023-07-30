@@ -68,7 +68,6 @@ In no particular order:
 ## Chat
 
 - [weechat](https://github.com/weechat/weechat) IRC client
-![Action Shot](/images/ircterminal.jpg)
 
 ## Video
 
