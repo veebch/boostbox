@@ -76,8 +76,8 @@ In no particular order:
 
 ### Video
 
-- [ytfzf](https://github.com/pystardust/ytfzf) for viewing YouTube videos (only tested with X11 running).
-- [VLC](https://github.com/videolan/vlc) for playng videos in the framebuffer.
+- [ytfzf](https://github.com/pystardust/ytfzf) for viewing YouTube videos.
+- [MPV](https://mpv.io/) for playng videos in the framebuffer.
 
 ### Image Viewer
 
