@@ -42,24 +42,27 @@ overscan_top=40
 overscan_bottom=16
 ```
 
-# Software
+# Workflow / Tools
 
 A set of command line tools that with a bit of tenacity in remembering keyboard shortcuts, makes for an efficient workflow. In no particular order
 
-## tmux
+## terminal multiplexer
 
-A terminal multiplexer
-https://github.com/tmux/tmux/wiki
+[tmux](https://github.com/tmux/tmux/wiki)
 
 configuration: https://github.com/samoshkin/tmux-config
 
-## neomutt
+Start up elaborate sessions using a single [tmuxinator](https://github.com/tmuxinator/tmuxinator) command
 
-Old skool email
+## email
 
-https://github.com/neomutt/neomutt
+[neomutt](https://github.com/neomutt/neomutt)
 
-## gcalcli
+## encryption
+
+GNU Privacy Guard [GPG](https://gnupg.org/)
+
+## calendar
 
 Google calendar command line client
 
@@ -67,16 +70,12 @@ https://github.com/insanum/gcalcli
 
 ## weechat
 
-IRC client
-
-https://github.com/weechat/weechat
+[weechat](https://github.com/weechat/weechat) IRC client
 
 ![Action Shot](/images/ircterminal.jpg)
-## ytfzf
+## YouTube
 
-YouTube viewer
-
-https://github.com/pystardust/ytfzf
+[ytfzf](https://github.com/pystardust/ytfzf)
 
 # Video
 
