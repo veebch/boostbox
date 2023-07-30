@@ -78,7 +78,7 @@ In no particular order:
 
 ### Chat
 
-- [weechat](https://github.com/weechat/weechat) IRC client.
+-  IRC client, [weechat](https://github.com/weechat/weechat).
 
 ### Video
 
