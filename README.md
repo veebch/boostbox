@@ -15,10 +15,11 @@ Some notes on a command-line terminal, (reversibly) built into an old a super 8 
 The Boostbox was originally a little project to turn an old Super 8 viewer into a YouTube viewing terminal. After a year or so of tweaking it, it turned into a capable terminal that does: 
 - terminal mutiplexing
 - email 
-- encryption 
+- encryption
+- scheduling 
 - chat
 - video/ image viewing
-- scheduling 
+- audio
 
 # Overview Video
 
@@ -80,14 +81,17 @@ In no particular order:
 
 -  IRC client, [weechat](https://github.com/weechat/weechat).
 
-### Video
+### Video and Audio
 
 - [ytfzf](https://github.com/pystardust/ytfzf) for searching YouTube videos.
 - [MPV](https://mpv.io/) for playing videos in the framebuffer.
+- Multimedia content with [ffmpeg](https://github.com/FFmpeg/FFmpeg)
 
+  
 ### Image Viewer
 
 - [FIM](https://www.nongnu.org/fbi-improved/) image viewer program for framebuffer.
+
 
 
 
