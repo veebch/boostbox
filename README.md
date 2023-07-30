@@ -55,20 +55,19 @@ In no particular order:
 
 ## email
 
-[neomutt](https://github.com/neomutt/neomutt)
+- [neomutt](https://github.com/neomutt/neomutt)
 
 ## Encryption
 
-GNU Privacy Guard [GPG](https://gnupg.org/)
+- GNU Privacy Guard [GPG](https://gnupg.org/)
 
 ## Calendar
 
-Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli)
+- Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli)
 
 ## Chat
 
-[weechat](https://github.com/weechat/weechat) IRC client
-
+-[weechat](https://github.com/weechat/weechat) IRC client
 ![Action Shot](/images/ircterminal.jpg)
 
 ## Video
@@ -78,7 +77,7 @@ Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli
 
 ## Image Viewer
 
-[FIM](https://www.nongnu.org/fbi-improved/) image viewer program for framebuffer.
+- [FIM](https://www.nongnu.org/fbi-improved/) image viewer program for framebuffer.
 
 # Explainer Video
 
