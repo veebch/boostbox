@@ -13,7 +13,7 @@ Some notes on a command-line terminal, (reversibly) built into an old a super 8 
 # Background
 
 The Boostbox was originally a little project to turn an old Super 8 viewer into a YouTube viewing terminal. After some time tweaking it, it turned into a capable terminal that does: 
-- terminal mutiplexing 
+- terminal mutiplexing
 - email 
 - encryption 
 - chat
