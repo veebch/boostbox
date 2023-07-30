@@ -47,7 +47,7 @@ overscan_top=40
 overscan_bottom=16
 ```
 
-# Workflow / Tools
+# UX / Tools
 
 A set of command line tools that with a bit of tenacity in remembering keyboard shortcuts, makes for an efficient workflow. 
 
