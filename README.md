@@ -72,16 +72,19 @@ Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli
 
 ![Action Shot](/images/ircterminal.jpg)
 
-## YouTube
+## Video
 
-[ytfzf](https://github.com/pystardust/ytfzf)
-
-# Video
-
-[![Mod demo](http://img.youtube.com/vi/I5iHMEqll0Q/0.jpg)](http://www.youtube.com/watch?v=I5iHMEqll0Q "Video Title") for viewing videos (only tested with X11 running).
+[ytfzf](https://github.com/pystardust/ytfzf) for viewing YouTube videos (only tested with X11 running).
 
 [VLC](https://github.com/videolan/vlc)
 
-# Image Viewer
+## Image Viewer
 
 [FIM](https://www.nongnu.org/fbi-improved/) image viewer program for framebuffer.
+
+# Explainer Video
+
+[![Mod demo](http://img.youtube.com/vi/I5iHMEqll0Q/0.jpg)](http://www.youtube.com/watch?v=I5iHMEqll0Q "Video Title") 
+
+
+
