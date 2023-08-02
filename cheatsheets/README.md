@@ -4,7 +4,7 @@ Because keystrokes are both great, and easily forgotten. Most of the things that
 
 ## tmux
 
-## Vim (and Neovim)
+## Vim
 
 ## Neomutt
 
