@@ -2,6 +2,8 @@
 
 Because keystrokes are both great, and easily forgotten. Most of the things that appear here will have customisable key mappings, but these will attempt to capture the main thrust of the default shortcuts.
 
+## tmux
+
 ## Vim (and Neovim)
 
 ## Neomutt
