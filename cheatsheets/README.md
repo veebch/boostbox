@@ -4,4 +4,4 @@ Because keystrokes are both great, and easily forgotten.
 
 # Acknowlegement
 
-Borrowed heavily from the cheat-sheet on flatcap.org
+The vim cheat-sheet borrowed heavily from the one on flatcap.org
