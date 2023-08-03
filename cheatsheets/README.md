@@ -6,7 +6,7 @@ Because keystrokes are both great, and easily forgotten. Most of the things that
 
 ## Vim
 
-The sheet countains at least 3 ways to exit vim, so it must be good. 
+The sheet contains at least 3 ways to exit vim, so it must be good. 
 
 ## Neomutt
 
