@@ -6,7 +6,7 @@ Because keystrokes are both great, and easily forgotten. Most of the things that
 
 ## vim
 
-The sheet contains at least 3 ways to exit vim, so it must be good. 
+The sheet contains at least 3 ways to exit vim, so it must be good.
 
 Something that it doesn't yet convey is the distinct modes (Edit, Command, Visual). Definite room for improvement.
 
@@ -14,6 +14,5 @@ Something that it doesn't yet convey is the distinct modes (Edit, Command, Visua
 
 ## weechat
 
-# Acknowlegements
 
-The vim cheat-sheet borrowed heavily from the one on [flatcap.org](https://flatcap.org/vim/)
+
