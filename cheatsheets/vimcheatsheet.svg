@@ -323,11 +323,11 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="2.38"
-     inkscape:cx="616.59664"
-     inkscape:cy="517.43697"
+     inkscape:cx="586.34454"
+     inkscape:cy="517.85714"
      inkscape:window-x="87"
      inkscape:window-y="186"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g5721"
      showguides="false"
      inkscape:guide-bbox="true"
      showgrid="false"
@@ -3296,7 +3296,9 @@
          id="tspan5096"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9717px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-   id="tspan2307">ZZ</tspan> to save &amp; quit, ZQ to quit w/o saving</tspan></text><text
+   id="tspan2307">ZZ</tspan> to save &amp; quit, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+   id="tspan1275">ZQ</tspan> to quit without saving</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f31d1d;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="744.82001"
