@@ -329,8 +329,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="2"
-     inkscape:cx="481.25"
-     inkscape:cy="465.75"
+     inkscape:cx="445.25"
+     inkscape:cy="466.25"
      inkscape:window-x="277"
      inkscape:window-y="131"
      inkscape:current-layer="svg2"
@@ -398,14 +398,14 @@
        x="757.35767"
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0"
-       id="tspan78791-1"><tspan
+       id="tspan997"><tspan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ff0000"
-   id="tspan81673">1 </tspan>The message below the one currently selected </tspan><tspan
+   id="tspan81673">1 </tspan>If current message is not marked for deletion then the</tspan><tspan
        y="557.57019"
        x="757.35767"
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0"
-       id="tspan81671">is undeleted.</tspan><tspan
+       id="tspan81671"> message below the one currently selected is selected.</tspan><tspan
        y="573.17017"
        x="757.35767"
        sodipodi:role="line"
@@ -2887,6 +2887,6 @@
      transform="translate(24.563458,-5.9788357)"><tspan
        x="990.47809"
        y="731.67388"
-       id="tspan2538"><tspan
+       id="tspan1539"><tspan
          style="fill:#999999"
-         id="tspan2536">veeb projects</tspan></tspan></text></svg>
+         id="tspan1537">veeb projects</tspan></tspan></text></svg>
