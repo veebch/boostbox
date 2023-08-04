@@ -12,6 +12,8 @@ Something that it doesn't yet convey is the distinct modes (Edit, Command, Visua
 
 ## neomutt
 
+This is a simplification and still needs probably still needs to have threading in there.
+
 ## weechat
 
 
