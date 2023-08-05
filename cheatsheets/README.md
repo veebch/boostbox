@@ -8,11 +8,11 @@ Because keystrokes are both great, and easily forgotten. Most of the things that
 
 The sheet contains at least 3 ways to exit vim, so it must be good.
 
-Something that it doesn't yet convey is the distinct modes (Edit, Command, Visual). Definite room for improvement.
+Something that it doesn't yet convey is the distinct modes (Edit, Command, Visual).
 
 ## neomutt
 
-This is a simplification and still needs probably still needs to have threading in there.
+This is a simplification and is a definite work-in progress.
 
 ## weechat
 
