@@ -23,6 +23,9 @@ This is a simplification. A more comprehensive list can be found via the help co
 ## To Do
 
 ### weechat
+
+For now, use the /key command
+ 
 ### tmux
 
 
