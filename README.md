@@ -60,7 +60,7 @@ overscan_bottom=16
 
 # UX / Tools
 
-An evolving set of command line tools that make for an efficient workflow. 
+An evolving set of command line tools that make for an efficient workflow. Some things to make them a little easier to navigate are in the [cheat-sheets directory](./cheatsheets).
 
 In no particular order:
 
