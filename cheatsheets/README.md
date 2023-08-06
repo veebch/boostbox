@@ -14,7 +14,7 @@ Something that it doesn't yet convey is the distinct modes (Edit, Command, Visua
 
 ## neomutt
 
-This is a simplification and is a definite work-in progress.
+This is a simplification. A more comprehensive list can be found via the help command.
 
 ![Neomutt Cheatsheet](./neomuttcheatsheet.svg)
 
