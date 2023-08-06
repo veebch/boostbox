@@ -12,7 +12,7 @@ Something that it doesn't yet convey is the distinct modes (Edit, Command, Visua
 
 ![Vim Cheatsheet](./vimcheatsheet.svg)
 
-This is largely based on the one at [flatcap.org](https://flatcap.org/vim/)
+This is a simplified version of the one at [flatcap.org](https://flatcap.org/vim/)
 
 ## neomutt
 
