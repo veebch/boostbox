@@ -6,7 +6,7 @@ Because keystrokes are both great, and easily forgotten. Most of the things that
 
 ## vim/ neovim
 
-The sheet contains at least 3 ways to exit vim, so it must be good.
+The sheet contains at least 3 ways to [exit vim](https://thenewstack.io/how-do-you-exit-vim-a-newbie-question-turned-tech-meme/), so it must be good.
 
 Something that it doesn't yet convey is the distinct modes (Edit, Command, Visual).
 
