@@ -10,7 +10,7 @@ The sheet contains at least 3 ways to [exit vim](https://thenewstack.io/how-do-y
 
 Something that it doesn't yet convey is the distinct modes (Edit, Command, Visual).
 
-![Vim Cheatsheet](./vimcheatsheet.svg)
+![Vim Cheat-sheet](./vimcheatsheet.svg)
 
 This is a simplified version of the one at [flatcap.org](https://flatcap.org/vim/)
 
