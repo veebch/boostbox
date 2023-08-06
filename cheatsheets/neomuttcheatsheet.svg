@@ -9,7 +9,7 @@
    height="555.8067pt"
    version="1.0"
    sodipodi:docname="neomuttcheatsheet.svg"
-   inkscape:export-filename="vimcheatsheet.pdf"
+   inkscape:export-filename="neomuttcheatsheet.pdf"
    inkscape:export-xdpi="87.574409"
    inkscape:export-ydpi="87.574409"
    xml:space="preserve"
@@ -334,8 +334,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="2"
-     inkscape:cx="531.25"
-     inkscape:cy="383.75"
+     inkscape:cx="484.75"
+     inkscape:cy="384.25"
      inkscape:window-x="64"
      inkscape:window-y="213"
      inkscape:current-layer="svg2"
@@ -1855,7 +1855,7 @@
      height="31.090153"
      width="68.54332"
      id="rect42197"
-     style="fill:#43ad9a;fill-opacity:0.52549;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" /><text
+     style="fill:#97d5c2;fill-opacity:1;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" /><text
      transform="scale(1.00492,0.99510408)"
      id="text42199"
      y="400.74042"
@@ -2884,9 +2884,9 @@
      transform="translate(24.563458,-5.9788357)"><tspan
        x="990.47809"
        y="731.67388"
-       id="tspan14759"><tspan
+       id="tspan6269"><tspan
          style="fill:#999999"
-         id="tspan14757">veeb projects</tspan></tspan></text><text
+         id="tspan6267">veeb projects</tspan></tspan></text><text
      xml:space="preserve"
      id="text1891"
      style="font-weight:bold;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;white-space:pre;shape-inside:url(#rect1893);display:inline;fill:#1a1a1a;fill-opacity:0.65;stroke-width:1.33333;paint-order:stroke fill markers;stop-color:#000000" /></svg>
