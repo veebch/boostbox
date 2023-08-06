@@ -329,8 +329,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="2"
-     inkscape:cx="445.25"
-     inkscape:cy="466.25"
+     inkscape:cx="406.25"
+     inkscape:cy="346.75"
      inkscape:window-x="277"
      inkscape:window-y="131"
      inkscape:current-layer="svg2"
@@ -359,7 +359,7 @@
      y="344.92929"
      ry="0.88353938"
      rx="1.0607548" /><rect
-     style="fill:#000000;fill-opacity:0.0705206;stroke:none;stroke-width:1.24344;stroke-opacity:0.276263;paint-order:stroke fill markers;stop-color:#000000"
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.24344;stroke-opacity:0.276263;paint-order:stroke fill markers;stop-color:#000000"
      id="rect3664-3"
      width="211.73529"
      height="69.835182"
@@ -367,7 +367,7 @@
      y="11.689163"
      rx="1.0607548"
      ry="0.7684176" /><rect
-     style="fill:#000000;fill-opacity:0.0705206;stroke:none;stroke-width:1.18652;stroke-opacity:0.276263;paint-order:stroke fill markers;stop-color:#000000"
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.18652;stroke-opacity:0.276263;paint-order:stroke fill markers;stop-color:#000000"
      id="rect3664"
      width="128.19478"
      height="105.02879"
@@ -375,7 +375,7 @@
      y="15.573378"
      rx="0.64223224"
      ry="1.1556636" /><rect
-     style="fill:#000000;fill-opacity:0.0705206;stroke:none;stroke-width:4.14932;stroke-opacity:0.276263;paint-order:stroke fill markers;stop-color:#000000"
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:4.14932;stroke-opacity:0.276263;paint-order:stroke fill markers;stop-color:#000000"
      id="rect3664-4"
      width="698.54919"
      height="235.71281"
@@ -2887,6 +2887,6 @@
      transform="translate(24.563458,-5.9788357)"><tspan
        x="990.47809"
        y="731.67388"
-       id="tspan1539"><tspan
+       id="tspan2784"><tspan
          style="fill:#999999"
-         id="tspan1537">veeb projects</tspan></tspan></text></svg>
+         id="tspan2782">veeb projects</tspan></tspan></text></svg>
