@@ -25,7 +25,9 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 
 Click/tap the image below for a description.
 
-[![](https://yt-embed.live/embed?v=I5iHMEqll0Q)](http://www.youtube.com/watch?v=I5iHMEqll0Q "") 
+
+[![Explainer video](http://img.youtube.com/vi/I5iHMEqll0Q/0.jpg)](http://www.youtube.com/watch?v=I5iHMEqll0Q "Video Title")
+
 
 # Parts
 - Raspberry Pi 4 or any single board computer running linux with HDMI out should work
