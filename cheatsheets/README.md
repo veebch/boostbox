@@ -12,6 +12,8 @@ Something that it doesn't yet convey is the distinct modes (Edit, Command, Visua
 
 ![Vim Cheatsheet](./vimcheatsheet.svg)
 
+This is largely based on the one at [flatcap.org](https://flatcap.org/vim/)
+
 ## neomutt
 
 This is a simplification. A more comprehensive list can be found via the help command.
