@@ -1,5 +1,4 @@
-![Alt text](./vimcheatsheet.svg)
-<img src="./vimcheatsheet.svg">
+![Vim Cheatsheet](./vimcheatsheet.svg)
 
 # Cheat-sheets
 
