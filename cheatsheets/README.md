@@ -16,7 +16,7 @@ Something that it doesn't yet convey is the distinct modes (Edit, Command, Visua
 
 This is a simplification and is a definite work-in progress.
 
-![Neomutt Cheatsheet](./neomuttsheet.svg)
+![Neomutt Cheatsheet](./neomuttcheatsheet.svg)
 
 ## To Do
 
