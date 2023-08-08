@@ -28,6 +28,10 @@ For now, use the /key command
  
 ### tmux
 
+These are using the tweaks at https://github.com/samoshkin/tmux-config.
+
+
+
 
 
 
