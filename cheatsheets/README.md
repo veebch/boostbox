@@ -22,7 +22,7 @@ This is a simplification. A more comprehensive list can be found via the help co
 
 ## tmux
 
-These are using the tweaks at https://github.com/samoshkin/tmux-config.
+These keystrokes are using the config at https://github.com/samoshkin/tmux-config.
 
 ![tmuxCheatsheet](./tmuxcheatsheet.svg)
 
