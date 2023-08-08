@@ -20,15 +20,18 @@ This is a simplification. A more comprehensive list can be found via the help co
 
 ![Neomutt Cheatsheet](./neomuttcheatsheet.svg)
 
+## tmux
+
+These are using the tweaks at https://github.com/samoshkin/tmux-config.
+
+![tmuxCheatsheet](./tmuxcheatsheet.svg)
+
 ## To Do
 
 ### weechat
 
 For now, use the /key command
  
-### tmux
-
-These are using the tweaks at https://github.com/samoshkin/tmux-config.
 
 
 
