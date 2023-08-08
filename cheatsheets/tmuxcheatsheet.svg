@@ -2232,7 +2232,7 @@
        x="548.67963"
        sodipodi:role="line"
        id="tspan46">(all commands follow the prefix <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';fill:#808080"
    id="tspan48">CTRL-a</tspan>)</tspan></text><text
      xml:space="preserve"
      id="text31718"
@@ -2592,9 +2592,9 @@
      transform="translate(-41.436542,-7.978836)"><tspan
        x="990.47809"
        y="731.67388"
-       id="tspan30"><tspan
+       id="tspan13"><tspan
          style="fill:#999999"
-         id="tspan29">veeb projects</tspan></tspan></text><text
+         id="tspan12">veeb projects</tspan></tspan></text><text
      xml:space="preserve"
      id="text1891"
      style="font-weight:bold;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;white-space:pre;shape-inside:url(#rect1893);display:inline;fill:#1a1a1a;fill-opacity:0.65;stroke-width:1.33333;paint-order:stroke fill markers;stop-color:#000000" /><g
