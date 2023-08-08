@@ -16,7 +16,7 @@ This is a simplified version of the one at [flatcap.org](https://flatcap.org/vim
 
 ## neomutt
 
-This is a simplification. A more comprehensive list can be found via the help command.
+This is a simplification. A more comprehensive list can be found via the help command (?).
 
 ![Neomutt Cheatsheet](./neomuttcheatsheet.svg)
 
@@ -27,6 +27,10 @@ This is a simplification. A more comprehensive list can be found via the help co
 For now, use the /key command
  
 ### tmux
+
+These are using the tweaks at https://github.com/samoshkin/tmux-config.
+
+
 
 
 
