@@ -4,6 +4,8 @@
 
 Because keystrokes are both great, and easily forgotten. Most of the things that appear here will have customisable key mappings, but these will attempt to capture the main thrust of the default shortcuts. The inkscape **svg** versions are included for easy tweaking. 
 
+The few applications here fit together elegantly, and create a lean TUI workflow that includes identity managment/ encryption.
+
 ## Editor: vim/ neovim
 
 The sheet contains at least 3 ways to [exit vim](https://thenewstack.io/how-do-you-exit-vim-a-newbie-question-turned-tech-meme/), so it must be good.
@@ -27,6 +29,10 @@ These keystrokes are using the config at https://github.com/samoshkin/tmux-confi
 ![tmuxCheatsheet](./tmuxcheatsheet.svg)
 
 ## To Do
+
+### gnupg
+
+Not keyboard shortcuts, but a general quick-start.
 
 ### weechat
 
