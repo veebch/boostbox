@@ -22,7 +22,7 @@ This is a simplification. A more comprehensive list can be found via the help co
 
 ![Neomutt Cheatsheet](./neomuttcheatsheet.svg)
 
-To get encryption/ indentity management working with gpg and neomutt, do [this](https://neomutt.org/test-doc/howto/encryption).
+To get encryption/ indentity management working with gpg and neomutt, do [this](https://www.edwinwenink.xyz/posts/15-pgp/).
 
 ## Terminal multiplexer: tmux
 
