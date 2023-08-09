@@ -22,6 +22,8 @@ This is a simplification. A more comprehensive list can be found via the help co
 
 ![Neomutt Cheatsheet](./neomuttcheatsheet.svg)
 
+To get encryption/ indentity management working with gpg and mutt, do [this](https://neomutt.org/test-doc/howto/encryption).
+
 ## Terminal multiplexer: tmux
 
 These keystrokes are using the config at https://github.com/samoshkin/tmux-config.
