@@ -2,7 +2,7 @@
 
 # Cheat-sheets
 
-Because keystrokes are both great, and easily forgotten. Most of the things that appear here will have customisable key mappings, but these will attempt to capture the main thrust of the default shortcuts. The inkscape **svg** versions are included for easy tweaking. You need to have the required fonts on your machine to view the svg files below as intended. They are [OpenSans](https://fonts.google.com/specimen/Open+Sans). If you don't have the fonts, the intended text will still show in the pdf files.
+Because keystrokes are both great, and easily forgotten. Most of the things that appear here will have customisable key mappings, but these will attempt to capture the main thrust of the default shortcuts. The inkscape **svg** versions are included for easy tweaking. 
 
 ## Editor: vim/ neovim
 
