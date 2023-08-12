@@ -32,10 +32,6 @@ These keystrokes are using the config at https://github.com/samoshkin/tmux-confi
 
 ## To Do
 
-### gnupg
-
-Not keyboard shortcuts, but a general quick-start.
-
 ### weechat
 
 For now, use the /key command
