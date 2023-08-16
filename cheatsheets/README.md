@@ -34,7 +34,7 @@ These keystrokes are using the config at https://github.com/samoshkin/tmux-confi
 
 ### weechat
 
-For now, use the /key command
+For now, refer to the [official weechat manual](https://weechat.org/files/doc/stable/weechat_user.en.html).
  
 
 
