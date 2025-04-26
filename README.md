@@ -85,7 +85,7 @@ In no particular order:
 
 ### GTD
 
-- Getting Things Done™, (Task Warrior)[https://github.com/GothenburgBitFactory/taskwarrior]
+- Getting Things Done™, [Task Warrior](https://github.com/GothenburgBitFactory/taskwarrior)
 
 ### Video and Audio
 
