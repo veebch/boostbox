@@ -16,7 +16,7 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 - encryption (pgp)
 - GTD (taskwarrior)
 - chat (weechat)
-- video/ image viewing (screen isn't brilliant for it)
+- video/ image viewing (the small screen isn't brilliant for it)
 - audio (bluetooth and ncmcpp and mpd)
 
 # Overview Video
