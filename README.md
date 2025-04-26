@@ -83,6 +83,10 @@ In no particular order:
 
 -  IRC client, [weechat](https://github.com/weechat/weechat).
 
+### GTD
+
+- Getting Things Done™, (Task Warrior)[https://github.com/GothenburgBitFactory/taskwarrior]
+
 ### Video and Audio
 
 - [ytfzf](https://github.com/pystardust/ytfzf) for searching YouTube videos.
