@@ -7,7 +7,7 @@
 
 Some notes on a command-line terminal, (reversibly) built into an old a super 8 film viewer. The aim is to make a functional terminal rather than just bunging an SBC into something old and it looking cool.
 
-An evolving set of command line tools that make for an efficient workflow. Some things to make them a little easier to navigate are in the [cheat-sheets directory](./cheatsheets).
+This aims to be an evolving set of command line tools that make for an efficient workflow. Some things to make them a little easier to navigate are in the [cheat-sheets directory](./cheatsheets).
 
 # Background
 
