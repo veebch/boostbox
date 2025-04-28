@@ -14,7 +14,7 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 - terminal mutiplexing (tmux)
 - email (neomutt) 
 - encryption (pgp)
-- GTD ([taskwarrior-tui]([https://kdheepak.com/taskwarrior-tui/configuration/colors/](https://github.com/kdheepak/taskwarrior-tui)))
+- GTD ([taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui))
 - chat (weechat)
 - video/ image viewing (the small screen isn't brilliant for it)
 - audio (bluetooth and ncmcpp and mpd)
