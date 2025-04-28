@@ -11,11 +11,11 @@ Some notes on a command-line terminal, (reversibly) built into an old a super 8 
 # Background
 
 The Boostbox was originally a little project to turn an old Super 8 viewer into a YouTube viewing terminal. After a year or so of tweaking it, it turned into a capable terminal that does: 
-- terminal mutiplexing (tmux)
-- email (neomutt) 
-- encryption (pgp)
+- terminal mutiplexing ([tmux](https://github.com/tmux/tmux))
+- email ([neomutt](https://github.com/neomutt/neomutt)) 
+- encryption ([gpg](https://gnupg.org/))
 - GTD ([taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui))
-- chat (weechat)
+- chat ([weechat](https://github.com/weechat/weechat))
 - video/ image viewing (the small screen isn't brilliant for it)
 - audio (bluetooth and ncmcpp and mpd)
 
