@@ -17,7 +17,7 @@ The Boostbox was originally a little project to turn an old Super 8 viewer into 
 - GTD ([taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui))
 - chat ([weechat](https://github.com/weechat/weechat))
 - video/ image viewing (the small screen isn't brilliant for it)
-- audio (bluetooth and ncmcpp and mpd)
+- audio ([ncmcpp](https://github.com/ncmpcpp/ncmpcpp))
 
 # Overview Video
 
