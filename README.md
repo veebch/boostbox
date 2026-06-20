@@ -46,15 +46,12 @@ Assembly will be influenced by the parts that you decide to use. One thing you a
 
 Earlier iterations used Manjaro Linux (from the Raspberry Pi imager) but more recently vanilla RaspiOS was used and everything was done in a Gframebuffer-enabled console. 
 
-The screen will be slightly obscured by the edges of the frame. This can be fixed by adding overscan values to `/boot/firmware/config.txt`.
+The screen will be slightly obscured by the edges of the frame. This can be fixed by adding overscan values to `/boot/firmware/cmdline.txt`.
 
 For example:
 
 ```
-overscan_left=40
-overscan_right=10
-overscan_top=40
-overscan_bottom=16
+video=HDMI-A-2:800x600M@60,margin_left=40,margin_right=10,margin_top=40,margin_bottom=16
 ```
 
 # UX / Tools
