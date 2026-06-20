@@ -29,7 +29,7 @@ Click/tap the image below for a walk through of the build.
 
 
 # Parts
-- Raspberry Pi 4 or any single board computer running linux with HDMI out should work
+- Raspberry Pi CM5 [like on the dbi-pi](https://github.com/veebch/dbi-pi) or any single board computer running linux with HDMI out should work
 - Hanimex E300 super 8 viewer
 - AC to 5V DC power supply (to attach to power switch on Hanimex)
 - 7inch 4:3 LED screen (like [this CLAA070MA0ACW](https://www.aliexpress.com/item/1005004454598585.html)) (Dimensions 154 × 119,2 × 5,4)
