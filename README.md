@@ -34,7 +34,6 @@ Click/tap the image below for a walk through of the build.
 - AC to 5V DC power supply (to attach to power switch on Hanimex) or a 5V PD trigger if you'd rather power using USBc
 - 7inch 4:3 LED screen (like [this CLAA070MA0ACW](https://www.aliexpress.com/item/1005004454598585.html)) (Dimensions 154 × 119,2 × 5,4)
 - Step-up convertor to convert 5V to the 9V DC needed by the screen (we used an adjustable MT3608 DC-DC convertor)
-- Optional, a speaker that can fit in the recess that used to hold the bulb (alternatively, you can connect to an external speaker using bluetooth)
 - A [BM40 keyboard](https://kprepublic.com/products/bm40-rgb-40-hot-swap-custom-mechanical-keyboard-pcb-qmk-underglow-type-c-planck?variant=40660715536547) by kprepublic. Layers set up using [QMK](https://github.com/qmk/qmk_firmware) to add mouse-emulation keys for those surprisingly rare moments that call for a mouse.
 # Assembly
 
