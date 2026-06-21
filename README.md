@@ -68,7 +68,7 @@ I recently discovered that my 1990s terminal toolkit is starting to look a bit d
 
 ### Calendar
 
-- Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli) or the more flexible [khal](https://github.com/pimutils/khal)
+- Google calendar command line client [gcalcli](https://github.com/insanum/gcalcli) or the more flexible (not limited to Google) [khal](https://github.com/pimutils/khal)
 
 ### Chat
 
