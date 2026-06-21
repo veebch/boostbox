@@ -4,7 +4,7 @@
 
 Some notes on a command-line terminal, (reversibly) built into an old a super 8 film viewer. The aim is to make a **functional** terminal.
 
-This repository has an evolving set of command line tools that make for an efficient workflow. Some things to make them a little easier to navigate are in the [cheat-sheets directory](./cheatsheets).
+This repository has an evolving set of minimal command line tools that make for an efficient workflow. 
 
 # Hardware
 
@@ -45,6 +45,7 @@ video=HDMI-A-2:800x600M@60,margin_left=40,margin_right=10,margin_top=40,margin_b
 # Software
 ## UX / Tools
 
+Some things to make these a little easier to navigate are in the [cheat-sheets directory](./cheatsheets).
 In no particular order:
 
 ## Terminal tools
