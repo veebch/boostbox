@@ -51,7 +51,7 @@ In no particular order:
 
 ## Terminal tools
 
-I recently discovered that my 1990s terminal toolkit is starting to look a bit dated. This [post](https://www.veeb.ch/projects/2026-linux-commands) describes a modern set of equivalents (fd, rg, bat, eza) as well as a gap created by modern file volumes that has been filled since when the toolkit was first designed (zoxide and fd). 
+I recently discovered that my 1990s terminal toolkit is starting to look a bit dated. This [post](https://www.veeb.ch/projects/2026-linux-commands) describes a modern set of equivalents (fd, rg, bat, eza) as well as a gap created by modern file volumes that has been filled since when the toolkit was first designed (zoxide and fzf). 
 
 ### Terminal multiplexer
 
