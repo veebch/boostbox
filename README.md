@@ -4,7 +4,7 @@
 
 Some notes on a command-line terminal, (reversibly) built into an old a super 8 film viewer. The aim is to make a **functional** terminal.
 
-This repository has an evolving set of minimal command line tools that make for an efficient workflow. 
+This repository also describes an evolving set of minimal command line tools which make for an efficient workflow. 
 
 # Hardware
 
