@@ -2,6 +2,8 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?style=flat&logo=youtube&logoColor=red&labelColor=white&color=ffed53)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ) [![Instagram](https://img.shields.io/github/stars/veebch?style=flat&logo=github&logoColor=black&labelColor=white&color=ffed53)](https://www.instagram.com/v_e_e_b/)
 
+# Boostbox
+
 Some notes on a command-line terminal, (reversibly) built into an old a super 8 film viewer. The aim is to make a *functional* terminal.
 
 This repository also describes an evolving set of minimal command line tools.
