@@ -8,13 +8,15 @@ Some notes on a command-line terminal, (reversibly) built into an old a super 8 
 
 This repository also describes an evolving set of minimal command line tools.
 
-## Overview Video
+## Overview Videos
 
 Click/tap the image below for a walk through of the build.
 
-
 [![Explainer video](http://img.youtube.com/vi/I5iHMEqll0Q/0.jpg)](http://www.youtube.com/watch?v=I5iHMEqll0Q "Video Title")
 
+or here for a demo of it running a gopher browser
+
+[![Gopher video](http://img.youtube.com/vi/-EcN0qYy7RI/0.jpg)](http://www.youtube.com/watch?v=I-EcN0qYy7RI "Video Title")
 
 ### Parts
 - Raspberry Pi CM5 [like on the dbi-pi](https://github.com/veebch/dbi-pi) or any single board computer running linux with HDMI out should work
